@@ -1,0 +1,9 @@
+server:
+  port:
+spring:
+  datasource:
+    username:
+    password:
+    url:
+    driver-class-name:
+    type:
